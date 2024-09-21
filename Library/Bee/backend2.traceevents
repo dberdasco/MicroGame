@@ -1,0 +1,426 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1726938142232941, "dur":123, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726938142233134, "dur":45881, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726938142279035, "dur":165, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726938142279603, "dur":1193, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726938142280902, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":0, "ts":1726938142280985, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":0, "ts":1726938142281041, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1726938142281143, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1726938142281200, "dur":147, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1726938142281517, "dur":110, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1726938142281637, "dur":93, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1726938142281793, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1726938142281889, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1726938142282471, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142282571, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142282655, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142282761, "dur":117, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142282889, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142282948, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142283040, "dur":98, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142283149, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142283207, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142283271, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142283357, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142283414, "dur":96, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142283520, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142283625, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142283731, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142283814, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142283872, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142284110, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142284222, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142284316, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142284423, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142284561, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142284683, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142284804, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142284902, "dur":105, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142285018, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142285119, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142285179, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142285282, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142285427, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142285540, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142285665, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142285756, "dur":96, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142285863, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142285953, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142286060, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142286125, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142286184, "dur":93, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142286285, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142286406, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142286496, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142286553, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142286778, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142286923, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142287045, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142287131, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142287276, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142287438, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142287555, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142287678, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142287986, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142288113, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142288231, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142288349, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142288469, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142288558, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142288674, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142288772, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142289050, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142289183, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142289260, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142289387, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142289485, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142289603, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142289682, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142289798, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1726938142289900, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":0, "ts":1726938142289973, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2).exe" }}
+,{ "pid":12345, "tid":0, "ts":1726938142290050, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":0, "ts":1726938142290265, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1726938142290343, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1726938142290445, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1726938142290568, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1726938142290643, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1726938142290761, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1726938142290860, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1726938142290973, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1726938142291071, "dur":216, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":0, "ts":1726938142291301, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":0, "ts":1726938142291369, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":0, "ts":1726938142280884, "dur":10698, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726938142291585, "dur":827679, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726938143119265, "dur":637, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726938143119904, "dur":133, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726938143120047, "dur":175, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726938143120377, "dur":95, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726938143120668, "dur":5447, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1726938142281384, "dur":10258, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1726938142291651, "dur":2013, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1726938142293665, "dur":10866, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1726938142304570, "dur":332, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1726938142304542, "dur":362, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1726938142318538, "dur":11562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1726938142330201, "dur":735, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1726938142330197, "dur":743, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1726938142330961, "dur":65, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1726938142331039, "dur":11417, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1726938142391599, "dur":617, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1726938142343364, "dur":48975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1726938142392635, "dur":4634, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1726938142408594, "dur":521, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1726938142397298, "dur":11849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1726938142409370, "dur":95939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1726938142510902, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1726938142505455, "dur":5539, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1726938142511142, "dur":156084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1726938142667412, "dur":451825, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1726938142281355, "dur":10262, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1726938142291626, "dur":12830, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1726938142354242, "dur":3237, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":2, "ts":1726938142357489, "dur":243, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1726938142357749, "dur":58745, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1726938142416499, "dur":213, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1726938142417062, "dur":233, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1726938142417484, "dur":2163, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player25801826-inputdata.json" }}
+,{ "pid":12345, "tid":2, "ts":1726938142420335, "dur":52, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.TinyProfiler2.dll" }}
+,{ "pid":12345, "tid":2, "ts":1726938142420406, "dur":658, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.VisualStudio.dll" }}
+,{ "pid":12345, "tid":2, "ts":1726938142357486, "dur":63968, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1726938142422248, "dur":176, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1726938142422435, "dur":82, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1726938142423749, "dur":681809, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1726938143115077, "dur":401, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1726938143115075, "dur":405, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1726938143119049, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1726938143115545, "dur":3586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1726938142281388, "dur":10283, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1726938142292346, "dur":1013, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Stevedore.Program.exe" }}
+,{ "pid":12345, "tid":3, "ts":1726938142291682, "dur":2351, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1726938142294033, "dur":10606, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1726938142304668, "dur":348, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1726938142304641, "dur":377, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1726938142335362, "dur":53, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1726938142369266, "dur":89, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1726938142335622, "dur":33760, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1726938142369730, "dur":249, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1726938142369991, "dur":60416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1726938142439648, "dur":134, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1726938142430749, "dur":9065, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1726938142440163, "dur":18449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1726938142458773, "dur":6630, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1726938142465419, "dur":9741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1726938142475322, "dur":7941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1726938142483382, "dur":15417, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1726938142513709, "dur":154, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1726938142498934, "dur":15101, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1726938142514255, "dur":60, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1726938142532018, "dur":68, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1726938142514327, "dur":17804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1726938142545544, "dur":146, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1726938142532646, "dur":13074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1726938142555226, "dur":67, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1726938142546108, "dur":9269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1726938142594801, "dur":239, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1726938142555886, "dur":39222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1726938142595359, "dur":523874, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1726938142281537, "dur":10170, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1726938142291718, "dur":1716, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1726938142293435, "dur":11064, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1726938142304520, "dur":1069, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1726938142356904, "dur":15146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1726938142372100, "dur":7221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726938142379474, "dur":4140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726938142383758, "dur":940, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\yamis\\My project (2)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726938142383755, "dur":946, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726938142389129, "dur":2759, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1726938142384759, "dur":7159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726938142392069, "dur":406, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\yamis\\My project (2)\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726938142392067, "dur":411, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726938142392494, "dur":173, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1726938142392697, "dur":4238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726938142397073, "dur":10124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726938142407359, "dur":15941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726938142423513, "dur":13221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726938142436869, "dur":8287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726938142445341, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726938142445338, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726938142445413, "dur":411, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1726938142445836, "dur":12827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726938142458774, "dur":6660, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1726938142465444, "dur":15204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726938142480787, "dur":22840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726938142503720, "dur":413, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1726938142504140, "dur":5382, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1726938142559803, "dur":421, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1726938142509724, "dur":50589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":4, "ts":1726938142596544, "dur":78, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1726938142560771, "dur":35898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1726938142596829, "dur":522453, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1726938142281656, "dur":10079, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1726938142291747, "dur":1598, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1726938142293345, "dur":11329, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1726938142304678, "dur":239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1726938142321028, "dur":5607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1726938142326758, "dur":322, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":5, "ts":1726938142326752, "dur":330, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1726938142332147, "dur":76, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1726938142327906, "dur":4346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1726938142332355, "dur":313, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1726938142333631, "dur":4710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1726938142339384, "dur":572, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1726938142343902, "dur":11690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":5, "ts":1726938142355740, "dur":10699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1726938142373893, "dur":75, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1726938142366583, "dur":7408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1726938142374244, "dur":7404, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":5, "ts":1726938142382998, "dur":5777, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\yamis\\My project (2)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1726938142382995, "dur":5786, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1726938142388804, "dur":3097, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1726938142391913, "dur":5646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1726938142397800, "dur":13948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1726938142422433, "dur":59, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1726938142411972, "dur":10551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1726938142422666, "dur":8301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1726938142563858, "dur":64, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1726938142431198, "dur":132779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1726938142600918, "dur":73, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1726938142565913, "dur":35109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1726938142601133, "dur":518136, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1726938142281786, "dur":9972, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1726938142292336, "dur":968, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1726938142291765, "dur":2519, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1726938142294284, "dur":10351, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1726938142304637, "dur":337, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1726938142321439, "dur":5080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1726938142326646, "dur":379, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1726938142328424, "dur":4960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1726938142333489, "dur":353, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1726938142333484, "dur":362, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1726938142335082, "dur":6875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1726938142342297, "dur":8415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":6, "ts":1726938142385374, "dur":7154, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1726938142350852, "dur":41853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1726938142436258, "dur":94, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1726938142393152, "dur":43234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1726938142436730, "dur":62900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1726938142571375, "dur":176, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1726938142500232, "dur":71394, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1726938142572665, "dur":546600, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1726938142281923, "dur":9893, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1726938142291822, "dur":1588, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1726938142293410, "dur":11597, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1726938142305024, "dur":291, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1726938142390106, "dur":6366, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1726938142351245, "dur":45250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1726938142396971, "dur":10371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1726938142413071, "dur":716, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1726938142407469, "dur":6386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1726938142414285, "dur":9672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1726938142424153, "dur":10121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1726938142434481, "dur":9195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1726938142444018, "dur":13339, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1726938142462797, "dur":3245, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1726938142457704, "dur":8363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1726938142466197, "dur":416, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1726938142544709, "dur":117, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1726938142466619, "dur":78276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1726938142570034, "dur":127, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1726938142546339, "dur":24056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1726938142570894, "dur":548321, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1726938142282022, "dur":10374, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1726938142292401, "dur":633, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726938142292401, "dur":2135, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1726938142294537, "dur":10049, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1726938142304591, "dur":302, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1726938142309184, "dur":11302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1726938142320698, "dur":264, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1726938142320694, "dur":272, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1726938142320966, "dur":923, "ph":"X", "name": "CheckPristineOutputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1726938142328842, "dur":66, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1726938142323046, "dur":5891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1726938142329051, "dur":303, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1726938142329537, "dur":5643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1726938142335276, "dur":261, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726938142335271, "dur":268, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726938142356507, "dur":78, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1726938142335664, "dur":20975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726938142356986, "dur":10716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726938142367851, "dur":6627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726938142374930, "dur":16945, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726938142391964, "dur":2493, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\yamis\\My project (2)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726938142391962, "dur":2498, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726938142394521, "dur":24062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726938142418720, "dur":9612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726938142428528, "dur":6405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726938142440957, "dur":94, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1726938142435111, "dur":6034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726938142441666, "dur":11032, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726938142461311, "dur":4153, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1726938142452886, "dur":12610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726938142465783, "dur":6751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726938142472712, "dur":15021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726938142488011, "dur":15554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726938142503674, "dur":443, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1726938142574825, "dur":108, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1726938142504127, "dur":70851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1726938142575218, "dur":544042, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1726938142282133, "dur":10287, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1726938142292432, "dur":505, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1726938142292937, "dur":12100, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1726938142305051, "dur":333, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1726938142373880, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1726938142356007, "dur":17953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1726938142391366, "dur":2477, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1726938142374139, "dur":19755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":9, "ts":1726938142395488, "dur":11814, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1726938142408049, "dur":947, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1726938142440950, "dur":78, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1726938142409009, "dur":32145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1726938142464378, "dur":1976, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1726938142441584, "dur":24797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1726938142466604, "dur":11438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1726938142478248, "dur":7183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1726938142525693, "dur":144, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1726938142485582, "dur":40330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1726938142539577, "dur":942, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1726938142526333, "dur":14232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":9, "ts":1726938142541381, "dur":87, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1726938142566798, "dur":81, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1726938142541489, "dur":25473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/resources.assets" }}
+,{ "pid":12345, "tid":9, "ts":1726938142567152, "dur":552072, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1726938142282432, "dur":11014, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1726938142293446, "dur":11119, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1726938142304595, "dur":292, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":10, "ts":1726938142304576, "dur":313, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":10, "ts":1726938142309983, "dur":9270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":10, "ts":1726938142319355, "dur":254, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1726938142320873, "dur":4291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":10, "ts":1726938142325248, "dur":306, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1726938142330990, "dur":262, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1726938142325611, "dur":5669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1726938142331402, "dur":253, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1726938142331699, "dur":4167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1726938142335969, "dur":92, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":10, "ts":1726938142335967, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2).exe" }}
+,{ "pid":12345, "tid":10, "ts":1726938142336092, "dur":4281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2).exe" }}
+,{ "pid":12345, "tid":10, "ts":1726938142342126, "dur":10055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726938142352303, "dur":9157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726938142361610, "dur":10226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726938142371985, "dur":92, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1726938142372088, "dur":6335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726938142378569, "dur":4321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726938142382997, "dur":310, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\yamis\\My project (2)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726938142382994, "dur":317, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726938142386952, "dur":5617, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1726938142383372, "dur":12449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726938142408944, "dur":614, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1726938142396028, "dur":13626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726938142409848, "dur":7503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726938142417565, "dur":12753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726938142430461, "dur":7283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726938142437932, "dur":7381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726938142445471, "dur":373, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1726938142445852, "dur":9142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726938142461956, "dur":3744, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1726938142455137, "dur":10645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726938142465939, "dur":10762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726938142476902, "dur":10070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726938142487086, "dur":15412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726938142502629, "dur":8573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1726938142533623, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1726938142511347, "dur":22415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":10, "ts":1726938142593756, "dur":94, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1726938142534251, "dur":59663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1726938142594150, "dur":525122, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1726938142282243, "dur":10199, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1726938142292442, "dur":12620, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1726938142305078, "dur":255, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":11, "ts":1726938142305064, "dur":271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1726938142352601, "dur":5037, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1726938142357844, "dur":10726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726938142368732, "dur":11602, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726938142380466, "dur":1440, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\yamis\\My project (2)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726938142380463, "dur":1446, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726938142385794, "dur":5921, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1726938142381952, "dur":9797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726938142391865, "dur":616, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\yamis\\My project (2)\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726938142391862, "dur":621, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726938142392496, "dur":98, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1726938142392603, "dur":5293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726938142398068, "dur":50, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726938142398064, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726938142398168, "dur":11732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726938142429398, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1726938142410178, "dur":19309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726938142429659, "dur":8131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726938142437944, "dur":11953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726938142463553, "dur":2670, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1726938142450272, "dur":15975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726938142466394, "dur":9275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726938142475781, "dur":125500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1726938142601425, "dur":517795, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1726938142282323, "dur":11099, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1726938142293423, "dur":11502, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1726938142304958, "dur":286, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1726938142304932, "dur":314, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1726938142356467, "dur":92, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1726938142349976, "dur":6610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1726938142356856, "dur":11327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1726938142391518, "dur":1025, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1726938142368432, "dur":27366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":12, "ts":1726938142396392, "dur":52, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1726938142408854, "dur":608, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1726938142396453, "dur":13035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1726938142486512, "dur":208, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1726938142409672, "dur":77081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1726938142486917, "dur":18471, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/My project (2)_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1726938142505490, "dur":237, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.46f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":12, "ts":1726938142505487, "dur":242, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/yamis/Desktop/Minijuego_def/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":12, "ts":1726938142505834, "dur":166530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/yamis/Desktop/Minijuego_def/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":12, "ts":1726938142672455, "dur":446773, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1726938143138547, "dur":5749, "ph":"X", "name": "ProfilerWriteOutput" }
+,
